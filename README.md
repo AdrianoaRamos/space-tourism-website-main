@@ -11,6 +11,6 @@ Os usuários devem ser capazes de:
 - Visualizar o layout ideal para cada uma das páginas do site, dependendo do tamanho da tela do dispositivo.
 - Visualizar cada página e ser capaz de alternar entre as guias para ver novas informações.
 
-## Author
+## Autor
 
 Adriano A. Ramos
